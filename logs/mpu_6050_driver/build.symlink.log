@@ -1,0 +1,6 @@
+Symlinking /home/ubuntu/htn_ws/devel/share/mpu_6050_driver/cmake/mpu_6050_driverConfig.cmake
+Symlinking /home/ubuntu/htn_ws/devel/share/mpu_6050_driver/cmake/mpu_6050_driverConfig-version.cmake
+Symlinking /home/ubuntu/htn_ws/devel/bin/imu_node.py
+Symlinking /home/ubuntu/htn_ws/devel/bin/cmake.lock
+Symlinking /home/ubuntu/htn_ws/devel/lib/python2.7/dist-packages/mpu_6050_driver/__init__.py
+Symlinking /home/ubuntu/htn_ws/devel/lib/pkgconfig/mpu_6050_driver.pc
